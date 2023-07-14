@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=Meysammr&icon=5&color=1)](https://visitcount.itsvg.in)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3300&color=ADBAC7&center=false&vCenter=true&repeat=true&width=700&lines=Hi+👋+I'm+Amir;A+Backend+Developer+🎭🪄☕️)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3300&color=ADBAC7&center=false&vCenter=true&repeat=true&width=700&lines=Hi+👋+I'm+Meysam;A+Backend+Developer+🎭🪄☕️)](https://git.io/typing-svg)
 * 🎈 I am currently engaged in a challenging project within the field of Backend Web Development, where I am leveraging my expertise and skills to deliver high-quality solutions.
 * 👥️ I am actively seeking opportunities to collaborate with like-minded professionals in the industry, aiming to engage in exciting projects that push the boundaries of technology and contribute to impactful solutions.
 * 🤝🏻 I am open to receiving assistance and guidance from experienced individuals who can provide valuable insights and contribute to the success of collaborative endeavors.
